@@ -1,5 +1,7 @@
 # SplitIt
 
+Add a tip to any bill and split it between the party.
+
 <img width="537" alt="Screenshot 2022-06-10 at 15 23 56" src="https://user-images.githubusercontent.com/91250039/173074474-f15e79f7-53a6-44d9-9b93-0ccfd34ff796.png">
 
 SKILLS LEARNT:
